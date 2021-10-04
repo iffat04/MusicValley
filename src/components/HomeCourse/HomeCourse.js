@@ -26,6 +26,7 @@ const HomeCourse = (props) => {
                        <p>Price: ${price}</p>
                        <p>Duration: {duration} Weeks</p>
                     </div>
+                    <button className="btn btn-warning">Enroll Now</button>
                   </Card.Body>
                 </Card>
               </Col>

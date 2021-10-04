@@ -20,10 +20,9 @@ const Footer = () => {
                     <Form.Label>Password</Form.Label>
                     <Form.Control type="password" placeholder="Password" />
                 </Form.Group>
-                <Button className="btn btn-info" variant="primary" type="submit">
-                    Submit
-                </Button>
+               
             </Form>
+            <button  className="btn btn-warning w-25">Submit</button>
             </div>
             <div>
             <div>
