@@ -1,0 +1,303 @@
+[
+    {
+      "id": 1,
+      "isActive": true,
+      "price": 4021,
+      "rating": 5,
+      "duration": 8,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/guiter1.jpg",
+      "totalSale": 310,
+      "name": "Foster Roach",
+      "gender": "male",
+      "title": "Easy Guiter Learning",
+      "email": "fosterroach@freakin.com",
+      "phone": "+1 (939) 426-3460",
+      "address": "567 Crown Street, Eagletown, Rhode Island, 132",
+      "about": "Learn guiter from professionals within 2 months...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Mccormick Harris"
+        },
+        {
+          "id": 1,
+          "name": "Amie Gross"
+        },
+        {
+          "id": 2,
+          "name": "Monique Warren"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "isActive": true,
+      "price": 7270,
+      "rating": 4,
+      "duration": 16,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/guiter2.jpg",
+      "totalSale": 759,     
+      "name": "Elvia Carey",
+      "gender": "female",
+      "title": "Advanced Guiter Learning",
+      "email": "elviacarey@comtent.com",
+      "phone": "+1 (845) 429-2587",
+      "address": "842 Broome Street, Kersey, Maryland, 5363",
+      "about": ".A very specialized course for you to learn advanced technique...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Latasha Wynn"
+        },
+        {
+          "id": 1,
+          "name": "Loraine Pratt"
+        },
+        {
+          "id": 2,
+          "name": "Hester Mathis"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "isActive": false,
+      "price": 2404,
+      "rating": 3,
+      "duration": 7,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/violin.jpg",
+      "totalSale": 667,  
+      "name": "Gould Glenn",
+      "gender": "male",
+      "title": "Easy Violin",
+      "email": "gouldglenn@remotion.com",
+      "phone": "+1 (824) 509-2132",
+      "address": "690 Coles Street, Riner, Mississippi, 9730",
+      "about": "A very begginer Friendly Course for u to learn Violin...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Klein Ramos"
+        },
+        {
+          "id": 1,
+          "name": "Josefina Moon"
+        },
+        {
+          "id": 2,
+          "name": "Leslie Heath"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "isActive": false,
+      "price": 3736,
+      "rating": 1,
+      "duration": 6,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/bagpipe2.jpg",
+      "totalSale": 279, 
+      "name": "Randall Lamb",
+      "gender": "male",
+      "title": "Basic Bagpipe Course",
+      "email": "randalllamb@exposa.com",
+      "phone": "+1 (923) 488-2308",
+      "address": "364 Lafayette Walk, Beaulieu, District Of Columbia, 9133",
+      "about": "Learn pagpipe with determination and interest within few weeks.",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Janette Hebert"
+        },
+        {
+          "id": 1,
+          "name": "Gertrude Moore"
+        },
+        {
+          "id": 2,
+          "name": "Rena Little"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "isActive": true,
+      "price": 4153,
+      "rating": 3,
+      "duration": 6,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/drums.jpg",
+      "totalSale": 441, 
+      "name": "Avery Rich",
+      "gender": "male",
+      "title": "Rocking Drums Course",
+      "email": "averyrich@netplode.com",
+      "phone": "+1 (911) 574-2975",
+      "address": "153 Kent Street, Salunga, Illinois, 785",
+      "about": "Learn with fun. A fun course for u to suit your interest...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Susanna Rodriquez"
+        },
+        {
+          "id": 1,
+          "name": "Edwina Kline"
+        },
+        {
+          "id": 2,
+          "name": "Georgette Cross"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "isActive": false,
+      "price": 3493,
+      "rating": 4,
+      "duration": 7,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/flute1.jpg",
+      "totalSale": 691,
+      "eyeColor": "green",
+      "name": "Twila Delaney",
+      "gender": "female",
+      "title": "Flute for beginners",
+      "email": "twiladelaney@zytrek.com",
+      "phone": "+1 (938) 479-3628",
+      "address": "409 Freeman Street, Hanover, California, 9819",
+      "about": "A very easy course on playing flute",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Florence Anthony"
+        },
+        {
+          "id": 1,
+          "name": "Merrill Sullivan"
+        },
+        {
+          "id": 2,
+          "name": "Bernadine Mcpherson"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "isActive": false,
+      "price": 3933,
+      "rating": 3,
+      "duration": 10,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/harmonica.jpg",
+      "totalSale": 524,  
+      "name": "Lula Phillips",
+      "gender": "female",
+      "title": "Most Easiest instrumental Course",
+      "email": "lulaphillips@accufarm.com",
+      "phone": "+1 (878) 483-3667",
+      "address": "567 Cortelyou Road, Talpa, Michigan, 9766",
+      "about": "a very fun and easy course for you.",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ellison Booth"
+        },
+        {
+          "id": 1,
+          "name": "Eleanor Dunlap"
+        },
+        {
+          "id": 2,
+          "name": "Elvira Garrison"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "isActive": true,
+      "price": 2061,
+      "rating": 1,
+      "duration": 8,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/piyano.jpg",
+      "totalSale": 629,   
+      "name": "Keller Valencia",
+      "gender": "male",
+      "title": "Piyano for All",
+      "email": "kellervalencia@dyno.com",
+      "phone": "+1 (929) 519-3154",
+      "address": "472 Forrest Street, Kraemer, West Virginia, 6625",
+      "about": "If you are interested to learn piyano just enroll the course...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Martina Davis"
+        },
+        {
+          "id": 1,
+          "name": "Carmela Malone"
+        },
+        {
+          "id": 2,
+          "name": "Rodriquez Mccray"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "isActive": true,
+      "price": 2300,
+      "rating": 4,
+      "duration": 10,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/ukelele.jpg",
+      "totalSale": 822,
+      "name": "Hurley Grant",
+      "gender": "male",
+      "title": "Learn Ukelele Online",
+      "email": "hurleygrant@insurity.com",
+      "phone": "+1 (800) 460-3543",
+      "address": "395 Pioneer Street, Caron, Arizona, 3087",
+      "about": "Try something New. A very fun course on Ukelele playing",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Francisca Caldwell"
+        },
+        {
+          "id": 1,
+          "name": "Gwendolyn Mcbride"
+        },
+        {
+          "id": 2,
+          "name": "Thelma Head"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "isActive": true,
+      "price": 2098,
+      "rating": 3,
+      "duration": 13,
+      "image": "https://raw.githubusercontent.com/iffat04/musical-instruments/main/images/saxophone.jpg",
+      "totalSale": 796, 
+      "name": "William Morales",
+      "gender": "male",
+      "title": "Learn Saxophone",
+      "email": "williammorales@orbaxter.com",
+      "phone": "+1 (924) 555-2020",
+      "address": "367 Cheever Place, Makena, Kansas, 2627",
+      "about": "A very beginner friendly course that you should enroll...",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Blackburn Harding"
+        },
+        {
+          "id": 1,
+          "name": "Bates Jimenez"
+        },
+        {
+          "id": 2,
+          "name": "Olsen Kent"
+        }
+      ]
+    }
+  ]
